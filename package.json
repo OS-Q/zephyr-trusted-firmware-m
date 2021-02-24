@@ -1,0 +1,16 @@
+{
+  "name": "zephyr-trusted-firmware-m",
+  "version": "0.0.1",
+  "description": "Trusted Firmware M provides a reference implementation of secure world software for ARMv8-M and Zephyr framework",
+  "keywords": [
+    "library",
+    "zephyr",
+    "secure",
+    "trusted",
+    "cryptography"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/zephyrproject-rtos/trusted-firmware-m"
+  }
+}
